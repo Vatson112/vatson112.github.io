@@ -32,8 +32,8 @@ layout: page
 - **Nexus Repository Manager** - управление жизненным циклом (фильтрация, проксирование...) библиотек ЯП (go,python...)
 - **Docker, docker-compose, podman**
 - ЯП **(golang, bash)** - разработка в зависомости от задачи. Опыт написания prometheus экспортеров, ПО для расширения функционала k8s платформы
-- Система **Zero Touch Provisioning** baremetal серверов в геораспрделенных ЦОДах
-- Управление конфигурацией **(ansible, puppet, terraform/terragrunt, ignition)** - автоматизация взаимодействия с различными системами (внешние облака / IAC для foreman, nexus / linux системы...)
+- Система **Zero Touch Provisioning** baremetal серверов в геораспределенных ЦОДах
+- Управление конфигурацией **(ansible, puppet, terraform/terragrunt, ignition)** - инструмент выбираю под задачу. Автоматизация взаимодействия с различными системами (внешние облака, IAC для foreman/nexus, linux системы...)
 - **Quay** - HA registry для образов контейнеров
 - Оптимизация высоконагруженных приложений на linux системах **(flamegraph, perf, systemtap, ebpf, pyroscope, sysctl)**
 - Сканирование ПО на уязвимости **(vuls)**
@@ -62,11 +62,11 @@ layout: page
 - Hardering linux систем **SecOps**, в частности под сертификацию **PCIDSS**
 - **Nvidia** - работал с vGPU, Nvidia container runtime
 - **SVN** на базе Apache
-- Zabbix
+- **Zabbix**
 - **OpenShift** - разворот кластеров, настройка
 - **Wireguard, v2Ray, IPSec** - базовая настройка VPN и обфускации
 - **AWX** - создание проектов, template, базовая работа с системой
-- **сети, реалтайм анализ трафика, файрволы, iptables, netflow, wireshark**
+- **сети, реалтайм анализ трафика, файрволы, iptables, wireshark**
 
 #### В давнем прошлом
 
